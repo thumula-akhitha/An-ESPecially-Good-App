@@ -15,6 +15,7 @@
 		3F849098240A036A007FBA48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F849097240A036A007FBA48 /* Assets.xcassets */; };
 		3F84909B240A036A007FBA48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F849099240A036A007FBA48 /* LaunchScreen.storyboard */; };
 		3F8490A3240A03D6007FBA48 /* HistoryTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8490A2240A03D6007FBA48 /* HistoryTableTableViewController.swift */; };
+		3F8490A5240B7811007FBA48 /* Predictions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8490A4240B7811007FBA48 /* Predictions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3F84909A240A036A007FBA48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F84909C240A036A007FBA48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F8490A2240A03D6007FBA48 /* HistoryTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryTableTableViewController.swift; sourceTree = "<group>"; };
+		3F8490A4240B7811007FBA48 /* Predictions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predictions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3F84908C240A0368007FBA48 /* AppDelegate.swift */,
 				3F84908E240A0368007FBA48 /* SceneDelegate.swift */,
 				3F849090240A0368007FBA48 /* GuessViewController.swift */,
+				3F8490A4240B7811007FBA48 /* Predictions.swift */,
 				3F849092240A0368007FBA48 /* StatisticsViewController.swift */,
 				3F8490A2240A03D6007FBA48 /* HistoryTableTableViewController.swift */,
 				3F849094240A0368007FBA48 /* Main.storyboard */,
@@ -148,6 +151,7 @@
 				3F849091240A0368007FBA48 /* GuessViewController.swift in Sources */,
 				3F8490A3240A03D6007FBA48 /* HistoryTableTableViewController.swift in Sources */,
 				3F84908D240A0368007FBA48 /* AppDelegate.swift in Sources */,
+				3F8490A5240B7811007FBA48 /* Predictions.swift in Sources */,
 				3F84908F240A0368007FBA48 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
